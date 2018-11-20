@@ -1,2 +1,2 @@
 # at89s52
-basic code
+basic code here am adding pic16f877a, 8051,atmega162.
